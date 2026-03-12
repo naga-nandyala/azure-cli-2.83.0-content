@@ -34,7 +34,7 @@ parameters:
     default: ''
   - name: GitHubServiceConnection
     type: string
-    default: 'Azure'
+    default: 'github.com_naga-nandyala'
   - name: HomebrewTapRepo
     type: string
     default: ''
